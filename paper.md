@@ -60,27 +60,25 @@ because it describes data or a method you are using. Or you are citing the artic
 you disagree with it.
 
 Despite the long history, it is not widely used yet. The Springer Nature
-Journal of Cheminformatics, however, started in 2020 a pilot with using CiTO
+_Journal of Cheminformatics_, however, started in 2020 a pilot with using CiTO
 annotation&nbsp;[@citesAsAuthority:Willighagen2020]. As part of this pilot, Lua scripts were developed
 that would allow the citation typing to happen when the citation was made.
 
 The tool to convert BioHackrXiv Markdown to PDF has now been extended with an updated
-Lua filter to work with the APA Citation Styling Language (CSL), different from the CSL
-used by the Journal of Cheminformatics.
-
-During the biohackathon we focused on adding CiTO support.
+Lua filter to work with the APA Citation Styling Language (CSL, see [https://citationstyles.org/](https://citationstyles.org/)),
+different from the CSL used by the _Journal of Cheminformatics_).
 
 ## Wednesday (half way) progress report
 
 Achievements:
 
-1. We updated the software that runs the biohackrxiv PDF generation service
-2. We added CiTO support and now can annotate the bibliography in markdown for PDF generation
-3. We added SVG support
+1. We updated the software that runs the BioHackrXiv PDF generation service
+2. We added CiTO support and now can annotate the bibliography in Markdown for PDF generation
+3. We added Scalable Vector Graphics (SVG) support (not CiTO related)
 
 ## Friday final report
 
-At the end of the biohackathon we achieved the following outcomes:
+At the end of the BioHackathon we achieved the following outcomes:
 
 1. CiTO support with recent CSL
 2. SVG support
@@ -97,8 +95,8 @@ At this point we identify the following tasks that we can work on:
 1. Add the CiTO information to a public resource
 2. Add CiTO information to our own RDF store
 2. Support other group papers
-3. Bring CiTO to JOSS
-4. Improve RDF/wikidata/opencitations with CiTO
+3. Bring CiTO to the Journal of Open Source Software (JOSS)
+4. Improve RDF/Wikidata/OpenCitations with CiTO
 5. More info on OSF page
 6. Support multiple papers in one repo by giving a full (git) path
 
@@ -107,7 +105,10 @@ See http://preview.biohackrxiv.org/
 # Discussion
 
 As part of the ELIXIR BioHackathon 2021 we added CiTO support for BioHackrXiv.
-CiTO is an extension that is supported by a Lua filter of pandoc and the modified filter is now available for other publications using [pandoc](https://pandoc.org/) too.
+CiTO is an extension that is supported by a Lua filter of pandoc and the modified filter is now available for
+other publications using [pandoc](https://pandoc.org/) too.
+At the time of submission (early 2023), we note that there are two BioHackrXiv preprints
+that have used CiTO annotation&nbsp;[@citesAsDataSource:Ammar2022ETL; @citesAsDataSource:Ammar2022ETL].
 
 # Repositories
 
@@ -118,7 +119,9 @@ are hosted on https://github.com/biohackrxiv/bhxiv-gen-pdf.
 
 # Acknowledgements
 
-We thank the organizers of the ELIXIR BioHackathon 2021 for the event.
+We thank the organizers of the ELIXIR BioHackathon 2021 for the event,
+and the early adopters at the ELIXIR BioHackathon 2022.
 We also thank DBCLS for sponsoring the OSF.io hosting of BioHackrXiv.
+
 
 # References
