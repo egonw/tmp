@@ -40,7 +40,7 @@ platforms&nbsp;[@citesAsRecommendedReading:preprints].
 Over thirty papers have been published through this system and with the amount of biohackathons and codefests increasing every year, we expect this type of reporting and publishing to continue.
 The goal for this biohackathon was to add CiTO support and further improve deployment and take-up of the web service.
 CiTO is the Citation Typing Ontology that enables characterization of the nature or type of citations, both factually and
-rhetorically&nbsp;[@citesAsAuthority:CiTO] [@citesAsAuthority:Willighagen2020].
+rhetorically&nbsp;[@citesAsAuthority:CiTO; @citesAsAuthority:Willighagen2020].
 For examples see the [References] of this paper. A full list of characterizations can
 be found at [https://purl.org/spar/cito](https://purl.org/spar/cito). These enriched references containing CiTO characterizations can become
 part of the wider metadata on publications.
