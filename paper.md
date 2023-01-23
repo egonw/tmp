@@ -108,7 +108,7 @@ As part of the ELIXIR BioHackathon 2021 we added CiTO support for BioHackrXiv.
 CiTO is an extension that is supported by a Lua filter of pandoc and the modified filter is now available for
 other publications using [pandoc](https://pandoc.org/) too.
 At the time of submission (early 2023), we note that there are two BioHackrXiv preprints
-that have used CiTO annotation&nbsp;[@citesAsDataSource:Ammar2022ETL; @citesAsDataSource:Ammar2022ETL].
+that have used CiTO annotation&nbsp;[@citesAsDataSource:Ammar2022ETL; @citesAsDataSource:Arend2022BioHackEU22].
 
 # Repositories
 
