@@ -4,23 +4,23 @@ title_short: 'CiTO support for BioHackrXiv'
 tags:
   - metadata RDF pre-prints
 authors:
-  - name: Pjotr Prins
-    orcid: 0000-0002-8021-9162
+  - name: Egon Willighagen
+    orcid: 0000-0001-7542-0286
     affiliation: 1
   - name: Tazro Ohta
     orcid: 0000-0003-3777-5945
     affiliation: 2
-  - name: Egon Willighagen
-    orcid: 0000-0001-7542-0286
+  - name: Pjotr Prins
+    orcid: 0000-0002-8021-9162
     affiliation: 3
 affiliations:
-  - name: Department of Genetics, Genomics and Informatics, The University of Tennessee Health Science Center, Memphis, TN, USA.
+  - name: Department of Bioinformatics - BiGCaT, Maastricht University, Maastricht, The Netherlands
     index: 1
   - name: Database Center for Life Science, Research Organization of Information and Systems, Japan
     index: 2
-  - name: Department of Bioinformatics - BiGCaT, Maastricht University, Maastricht, The Netherlands
+  - name: Department of Genetics, Genomics and Informatics, The University of Tennessee Health Science Center, Memphis, TN, USA.
     index: 3
-date: 15 November 2021
+date: 26 January 2023
 cito-bibliography: paper.bib
 event: BH21EU
 biohackathon_name: "BioHackathon Europe"
@@ -28,7 +28,7 @@ biohackathon_url:   "https://biohackathon-europe.org/"
 biohackathon_location: "Barcalona, Spain, 2021"
 group: Logic programming group
 git_url: https://github.com/biohackrxiv/bhxiv-gen-pdf
-authors_short: Pjotr Prins, Tazro Otha, Egon Willighagen
+authors_short: Egon Willighagen, Tazro Otha, Pjotr Prins
 ---
 
 # Introduction
