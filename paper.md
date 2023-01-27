@@ -10,16 +10,21 @@ authors:
   - name: Tazro Ohta
     orcid: 0000-0003-3777-5945
     affiliation: 2
+  - name: Leyla Jael Castro
+    orcid: 0000-0003-3986-0510
+    affiliation: 3
   - name: Pjotr Prins
     orcid: 0000-0002-8021-9162
-    affiliation: 3
+    affiliation: 4
 affiliations:
   - name: Department of Bioinformatics - BiGCaT, Maastricht University, Maastricht, The Netherlands
     index: 1
   - name: Database Center for Life Science, Research Organization of Information and Systems, Japan
     index: 2
-  - name: Department of Genetics, Genomics and Informatics, The University of Tennessee Health Science Center, Memphis, TN, USA.
+  - name: ZB MED Information Centre for Life Sciences, Germany
     index: 3
+  - name: Department of Genetics, Genomics and Informatics, The University of Tennessee Health Science Center, Memphis, TN, USA.
+    index: 4
 date: 26 January 2023
 cito-bibliography: paper.bib
 event: BH21EU
