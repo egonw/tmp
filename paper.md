@@ -73,25 +73,21 @@ The tool to convert BioHackrXiv Markdown to PDF has now been extended with an up
 Lua filter to work with the APA Citation Styling Language (CSL, see [https://citationstyles.org/](https://citationstyles.org/)),
 different from the CSL used by the _Journal of Cheminformatics_).
 
-## Wednesday (half way) progress report
+## Achievements
 
-Achievements:
+During the week, we implemented various new features and ended up with the following achievements
+at the end of the BioHackathon (including some non-CiTO-related outcomes):
 
 1. We updated the software that runs the BioHackrXiv PDF generation service
 2. We added CiTO support and now can annotate the bibliography in Markdown for PDF generation
-3. We added Scalable Vector Graphics (SVG) support (not CiTO related) to allow people to add high-resolution figures
-
-## Friday final report
-
-At the end of the BioHackathon we achieved the following outcomes:
-
-1. CiTO support with recent CSL
-2. SVG support
-3. Added RDF
-4. Updated software stack
-6. Added tests
-3. Tested the new preview generator
-4. Support biohackathon groups with their publications
+3. We added Scalable Vector Graphics (SVG) support to allow people to add high-resolution figures
+4. CiTO support with recent CSL
+5. SVG support
+6. Added Resource Descriptino Framework (RDF) support
+7. Updated software stack
+8. Added tests
+9. Tested the new preview generator
+10. Support BioHackathon groups with their publications
 
 ## Future work
 
