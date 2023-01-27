@@ -35,7 +35,7 @@ authors_short: Egon Willighagen, Tazro Otha, Pjotr Prins
 
 In this paper we present the work executed on BioHackrXiv during the international ELIXIR BioHackathon in Barcelona, Spain, 2021.
 [BioHackrXiv](https://biohackrxiv.org/) is a scholarly publication service for
-biohackathons and codefests that target biology and the biomedical sciences in the spirit of pre-publishing
+biohackathons and codefests that target biology, bioinformatincs and the biomedical sciences in the spirit of pre-publishing
 platforms&nbsp;[@citesAsRecommendedReading:preprints].
 Over thirty papers have been published through this system and with the amount of biohackathons and codefests increasing every year, we expect this type of reporting and publishing to continue.
 The goal for this biohackathon was to add CiTO support and further improve deployment and take-up of the web service.
@@ -61,7 +61,7 @@ you disagree with it.
 
 Despite the long history, it is not widely used yet. The Springer Nature
 _Journal of Cheminformatics_, however, started in 2020 a pilot with using CiTO
-annotation&nbsp;[@citesAsAuthority:Willighagen2020]. As part of this pilot, Lua scripts were developed
+annotation&nbsp;[@citesAsAuthority:Willighagen2020]. As part of this pilot, [Lua](https://www.lua.org/) scripts were developed
 that would allow the citation typing to happen when the citation was made.
 
 The tool to convert BioHackrXiv Markdown to PDF has now been extended with an updated
@@ -97,10 +97,10 @@ At this point we identify the following tasks that we can work on:
 2. Support other group papers
 3. Bring CiTO to the Journal of Open Source Software (JOSS)
 4. Improve RDF/Wikidata/OpenCitations with CiTO
-5. More info on OSF page
+5. More info on the Open Science Foundation (OSF) [preprints pages](https://osf.io/preprints/), i.e., the platform where BioHackrXiv preprints are hosted
 6. Support multiple papers in one repo by giving a full (git) path
 
-See http://preview.biohackrxiv.org/
+Future changes will be integrated into the PDF online generator tool for BioHackarxiv, see http://preview.biohackrxiv.org/, so the PDF generation becomes richer and easier for submitters.
 
 # Discussion
 
@@ -121,7 +121,7 @@ are hosted on https://github.com/biohackrxiv/bhxiv-gen-pdf.
 
 We thank the organizers of the ELIXIR BioHackathon 2021 and ELIXIR BioHackathon 2022 events
 and the early adopters at the ELIXIR BioHackathon 2022 who added CiTO annotations to their preprints.
-We also thank DBCLS for sponsoring the OSF.io hosting of BioHackrXiv.
+We also thank Database Center for Life Science (DBCLS) for sponsoring the OSF.io hosting of BioHackrXiv.
 
 
 # References
