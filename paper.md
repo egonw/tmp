@@ -79,7 +79,7 @@ Achievements:
 
 1. We updated the software that runs the BioHackrXiv PDF generation service
 2. We added CiTO support and now can annotate the bibliography in Markdown for PDF generation
-3. We added Scalable Vector Graphics (SVG) support (not CiTO related)
+3. We added Scalable Vector Graphics (SVG) support (not CiTO related) to allow people to add high-resolution figures
 
 ## Friday final report
 
