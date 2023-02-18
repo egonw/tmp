@@ -64,8 +64,9 @@ because it describes data or a method you are using. Or you are citing the artic
 you disagree with it.
 
 Despite the long history, it is not widely used yet. The Springer Nature
-_Journal of Cheminformatics_, however, started in 2020 a pilot with using CiTO
-annotation&nbsp;[@citesAsAuthority:Willighagen2020]. As part of this pilot, [Lua](https://www.lua.org/) scripts were developed
+_Journal of Cheminformatics_, however, ran from 2020 to 2022 a pilot with using CiTO
+annotation&nbsp;[@citesAsAuthority:Willighagen2020; @citesAsAuthority:Willighagen2023; @citesAsAuthority:Guha2023].
+As part of this pilot, [Lua](https://www.lua.org/) scripts were developed
 that would allow the citation typing to happen when the citation was made.
 
 The tool to convert BioHackrXiv Markdown to PDF has now been extended with an updated
