@@ -31,7 +31,7 @@ event: BH21EU
 biohackathon_name: "BioHackathon Europe"
 biohackathon_url:   "https://biohackathon-europe.org/"
 biohackathon_location: "Barcalona, Spain, 2021"
-group: Logic programming group
+group: BioHackrXiv group
 git_url: https://github.com/biohackrxiv/bhxiv-gen-pdf
 authors_short: Egon Willighagen, Tazro Otha, Pjotr Prins
 ---
