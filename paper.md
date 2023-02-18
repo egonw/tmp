@@ -52,8 +52,7 @@ part of the wider metadata on publications.
 
 BioHackrXiv publications are generated from simple powerful markdown/LaTeX templates where the header is a YAML/JSON record that includes the title, authors, affiliations and tags&nbsp;[@citesAsAuthority:bhxiv20]. The idea originated from the [pandoc flavoured markdown](https://garrettgman.github.io/rmarkdown/authoring_pandoc_markdown.html) layout that is used in the Journal of Open Source Software
 (JOSS)&nbsp;[@citesAsAuthority:JOSS].
-Templates are provided as an [example](https://github.com/biohackrxiv/publication-template). Support in pandoc of CiTO annotations dates
-back to 2017&nbsp;[@usesMethodIn:Krewinkel2017].
+Templates are provided as an [example](https://github.com/biohackrxiv/publication-template). Support of CiTO annotations in the pandoc platform via extensions dates back to 2017&nbsp;[@usesMethodIn:Krewinkel2017].
 
 # Results
 
