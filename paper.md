@@ -88,6 +88,15 @@ at the end of the BioHackathon (including some non-CiTO-related outcomes):
 9. Tested the new preview generator
 10. Support BioHackathon groups with their publications
 
+## Examples
+
+We here give a few examples of how citations can be annotated with CiTO intentions in the Markdown.
+Without annotation you would add a citation with something like `[@Krewinkel2017]`. The `Krewinkel2017`
+key refers to the key in the BibLaTeX `.bib` file. A single intention annotation (most common) would
+be added like this: `[@usesMethodIn:Krewinkel2017]`. If there is more than one intention, you separate
+them with colons, for example like `[@extends:discusses:Nielsen2017Scholia]`. If you cite two
+articles, you link the intention in this way: `[@citesAsDataSource:Ammar2022ETL; @citesAsDataSource:Arend2022BioHackEU22]`.
+
 ## Future work
 
 At this point we identify the following tasks that we can work on:
