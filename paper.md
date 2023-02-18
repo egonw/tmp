@@ -122,6 +122,8 @@ are hosted on https://github.com/biohackrxiv/bhxiv-gen-pdf.
 
 We thank the organizers of the ELIXIR BioHackathon 2021 and ELIXIR BioHackathon 2022 events
 and the early adopters at the ELIXIR BioHackathon 2022 who added CiTO annotations to their preprints.
+We thank Stian Soiland-Reyes for his commit to the template, adding support for a wider range of
+CiTO intention types.
 We also thank Database Center for Life Science (DBCLS) for sponsoring the OSF.io hosting of BioHackrXiv.
 
 
